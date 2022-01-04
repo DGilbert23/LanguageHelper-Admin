@@ -1,0 +1,38 @@
+﻿<Window x:Class="LanguageHelper3._1.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:LanguageHelper3._1.Controls"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="1050">
+    <Grid>
+        <DockPanel LastChildFill="True">            
+            <Grid Height="36" VerticalAlignment="Bottom" DockPanel.Dock="Bottom">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="1*"/>
+                    <ColumnDefinition Width="1*"/>
+                    <ColumnDefinition Width="1*"/>
+                </Grid.ColumnDefinitions>
+                <Button Grid.Column="0" x:Name="buttonShowRemovePanel" Content="Remove Word or Translation" />
+                <Button Grid.Column="1" x:Name="buttonShowCharts" Content="Show Charts" />
+                <Button Grid.Column="2" x:Name="buttonShowAddPanel" Content="Add Word or Translation" />
+            </Grid>
+
+            <Grid DockPanel.Dock="Right" Width="250">
+                <local:AddPanel Visibility="Visible"></local:AddPanel>
+                <local:RemovePanel Visibility="Collapsed"></local:RemovePanel>
+            </Grid>
+
+            <DataGrid x:Name="dataGrid" AutoGenerateColumns="False" AlternatingRowBackground="#FFBFB3B3" AlternationCount="1" FontSize="16">
+                <DataGrid.Columns>
+                    <DataGridTextColumn Binding="{Binding Hiragana}" Header="Hiragana" Width="1*"/>
+                    <DataGridTextColumn Binding="{Binding Romanji}" Header="Romanji" Width="1*"/>
+                    <DataGridTextColumn Binding="{Binding EnglishWord}" Header="English" Width="1*"/>
+                    <DataGridTextColumn Binding="{Binding Kanji}" Header="Kanji" Width="1*"/>
+                </DataGrid.Columns>
+            </DataGrid>
+        </DockPanel>
+
+    </Grid>
+</Window>

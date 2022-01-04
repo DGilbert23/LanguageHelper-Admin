@@ -1,0 +1,93 @@
+c:\users\gilberd\source\repos\LanguageHelper3.1\LanguageHelper3.1\obj\Debug\Controls\AddPanel.g.cs
+c:\users\gilberd\source\repos\LanguageHelper3.1\LanguageHelper3.1\obj\Debug\Controls\AddTranslationPanel.g.cs
+c:\users\gilberd\source\repos\LanguageHelper3.1\LanguageHelper3.1\obj\Debug\Controls\AddWordPanel.g.cs
+c:\users\gilberd\source\repos\LanguageHelper3.1\LanguageHelper3.1\obj\Debug\Controls\RemovePanel.g.cs
+c:\users\gilberd\source\repos\LanguageHelper3.1\LanguageHelper3.1\obj\Debug\App.g.cs
+c:\users\gilberd\source\repos\LanguageHelper3.1\LanguageHelper3.1\obj\Debug\GeneratedInternalTypeHelper.g.cs
+c:\users\gilberd\source\repos\LanguageHelper3.1\LanguageHelper3.1\obj\Debug\LanguageHelper3.1_MarkupCompile.cache
+c:\users\gilberd\source\repos\LanguageHelper3.1\LanguageHelper3.1\obj\Debug\LanguageHelper3.1_MarkupCompile.lref
+c:\users\gilberd\source\repos\LanguageHelper3.1\LanguageHelper3.1\obj\Debug\Controls\AddPanel.baml
+c:\users\gilberd\source\repos\LanguageHelper3.1\LanguageHelper3.1\obj\Debug\Controls\AddTranslationPanel.baml
+c:\users\gilberd\source\repos\LanguageHelper3.1\LanguageHelper3.1\obj\Debug\Controls\AddWordPanel.baml
+c:\users\gilberd\source\repos\LanguageHelper3.1\LanguageHelper3.1\obj\Debug\Controls\RemovePanel.baml
+c:\users\gilberd\source\repos\LanguageHelper3.1\LanguageHelper3.1\obj\Debug\LanguageHelper3.1.exe
+c:\users\gilberd\source\repos\LanguageHelper3.1\LanguageHelper3.1\obj\Debug\LanguageHelper3.1.pdb
+c:\users\gilberd\source\repos\LanguageHelper3.1\LanguageHelper3.1\bin\Debug\LanguageHelper3.1.exe.config
+c:\users\gilberd\source\repos\LanguageHelper3.1\LanguageHelper3.1\bin\Debug\LanguageHelper3.1.exe
+c:\users\gilberd\source\repos\LanguageHelper3.1\LanguageHelper3.1\bin\Debug\LanguageHelper3.1.pdb
+c:\users\gilberd\source\repos\LanguageHelper3.1\LanguageHelper3.1\obj\Debug\LanguageHelper3.1.g.resources
+c:\users\gilberd\source\repos\LanguageHelper3.1\LanguageHelper3.1\obj\Debug\LanguageHelper3._1.Properties.Resources.resources
+c:\users\gilberd\source\repos\LanguageHelper3.1\LanguageHelper3.1\obj\Debug\LanguageHelper3.1.csproj.GenerateResource.Cache
+c:\users\gilberd\source\repos\LanguageHelper3.1\LanguageHelper3.1\obj\Debug\LanguageHelper3.1.csproj.CoreCompileInputs.cache
+C:\Users\gilberd\source\repos\LanguageHelper3.1\LanguageHelper3.1\obj\Debug\Controls\RemoveTranslationPanel.g.cs
+C:\Users\gilberd\source\repos\LanguageHelper3.1\LanguageHelper3.1\obj\Debug\Controls\RemoveWordPanel.g.cs
+C:\Users\gilberd\source\repos\LanguageHelper3.1\LanguageHelper3.1\obj\Debug\Controls\RemoveTranslationPanel.baml
+C:\Users\gilberd\source\repos\LanguageHelper3.1\LanguageHelper3.1\obj\Debug\Controls\RemoveWordPanel.baml
+C:\Users\gilberd\source\repos\LanguageHelper3.1\LanguageHelper3.1\obj\Debug\Windows\MainWindow.g.cs
+C:\Users\gilberd\source\repos\LanguageHelper3.1\LanguageHelper3.1\obj\Debug\Windows\MainWindow.baml
+C:\Users\gilberd\source\repos\LanguageHelper3.1\LanguageHelper3.1\obj\Debug\Windows\WindowLogin.g.cs
+C:\Users\gilberd\source\repos\LanguageHelper3.1\LanguageHelper3.1\obj\Debug\Windows\WindowLogin.baml
+C:\Users\gilberd\source\repos\LanguageHelper3.1\LanguageHelper3.1\obj\Debug\LanguageHelper3.1.csprojResolveAssemblyReference.cache
+C:\Users\David\Desktop\LanguageHelper3.1\LanguageHelper3.1\bin\Debug\LanguageHelper3.1.exe.config
+C:\Users\David\Desktop\LanguageHelper3.1\LanguageHelper3.1\obj\Debug\LanguageHelper3.1.exe
+C:\Users\David\Desktop\LanguageHelper3.1\LanguageHelper3.1\obj\Debug\LanguageHelper3.1.pdb
+C:\Users\David\Desktop\LanguageHelper3.1\LanguageHelper3.1\bin\Debug\LanguageHelper3.1.exe
+C:\Users\David\Desktop\LanguageHelper3.1\LanguageHelper3.1\bin\Debug\LanguageHelper3.1.pdb
+C:\Users\David\Desktop\LanguageHelper3.1\LanguageHelper3.1\obj\Debug\Controls\AddPanel.g.cs
+C:\Users\David\Desktop\LanguageHelper3.1\LanguageHelper3.1\obj\Debug\Controls\AddTranslationPanel.g.cs
+C:\Users\David\Desktop\LanguageHelper3.1\LanguageHelper3.1\obj\Debug\Controls\AddWordPanel.g.cs
+C:\Users\David\Desktop\LanguageHelper3.1\LanguageHelper3.1\obj\Debug\Controls\RemovePanel.g.cs
+C:\Users\David\Desktop\LanguageHelper3.1\LanguageHelper3.1\obj\Debug\Controls\RemoveTranslationPanel.g.cs
+C:\Users\David\Desktop\LanguageHelper3.1\LanguageHelper3.1\obj\Debug\Controls\RemoveWordPanel.g.cs
+C:\Users\David\Desktop\LanguageHelper3.1\LanguageHelper3.1\obj\Debug\Windows\MainWindow.g.cs
+C:\Users\David\Desktop\LanguageHelper3.1\LanguageHelper3.1\obj\Debug\Windows\WindowLogin.g.cs
+C:\Users\David\Desktop\LanguageHelper3.1\LanguageHelper3.1\obj\Debug\App.g.cs
+C:\Users\David\Desktop\LanguageHelper3.1\LanguageHelper3.1\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\David\Desktop\LanguageHelper3.1\LanguageHelper3.1\obj\Debug\LanguageHelper3.1_MarkupCompile.cache
+C:\Users\David\Desktop\LanguageHelper3.1\LanguageHelper3.1\obj\Debug\LanguageHelper3.1_MarkupCompile.lref
+C:\Users\David\Desktop\LanguageHelper3.1\LanguageHelper3.1\obj\Debug\Controls\AddPanel.baml
+C:\Users\David\Desktop\LanguageHelper3.1\LanguageHelper3.1\obj\Debug\Controls\AddTranslationPanel.baml
+C:\Users\David\Desktop\LanguageHelper3.1\LanguageHelper3.1\obj\Debug\Controls\AddWordPanel.baml
+C:\Users\David\Desktop\LanguageHelper3.1\LanguageHelper3.1\obj\Debug\Controls\RemovePanel.baml
+C:\Users\David\Desktop\LanguageHelper3.1\LanguageHelper3.1\obj\Debug\Controls\RemoveTranslationPanel.baml
+C:\Users\David\Desktop\LanguageHelper3.1\LanguageHelper3.1\obj\Debug\Controls\RemoveWordPanel.baml
+C:\Users\David\Desktop\LanguageHelper3.1\LanguageHelper3.1\obj\Debug\Windows\MainWindow.baml
+C:\Users\David\Desktop\LanguageHelper3.1\LanguageHelper3.1\obj\Debug\Windows\WindowLogin.baml
+C:\Users\David\Desktop\LanguageHelper3.1\LanguageHelper3.1\obj\Debug\LanguageHelper3.1.g.resources
+C:\Users\David\Desktop\LanguageHelper3.1\LanguageHelper3.1\obj\Debug\LanguageHelper3._1.Properties.Resources.resources
+C:\Users\David\Desktop\LanguageHelper3.1\LanguageHelper3.1\obj\Debug\LanguageHelper3.1.csproj.GenerateResource.Cache
+C:\Users\David\Desktop\LanguageHelper3.1\LanguageHelper3.1\obj\Debug\LanguageHelper3.1.csproj.CoreCompileInputs.cache
+C:\Users\David\Desktop\LanguageHelper3.1\LanguageHelper3.1\obj\Debug\LanguageHelper3.1.csprojAssemblyReference.cache
+C:\Users\David\Desktop\LanguageHelper3.1\LanguageHelper3.1\obj\Debug\Controls\CharacterChartsPanel.g.cs
+C:\Users\David\Desktop\LanguageHelper3.1\LanguageHelper3.1\obj\Debug\Controls\CharacterChartsPanel.baml
+D:\Programming Projects\LanguageHelper3.1\LanguageHelper3.1\bin\Debug\LanguageHelper3.1.exe.config
+D:\Programming Projects\LanguageHelper3.1\LanguageHelper3.1\bin\Debug\LanguageHelper3.1.exe
+D:\Programming Projects\LanguageHelper3.1\LanguageHelper3.1\bin\Debug\LanguageHelper3.1.pdb
+D:\Programming Projects\LanguageHelper3.1\LanguageHelper3.1\obj\Debug\LanguageHelper3.1.csprojAssemblyReference.cache
+D:\Programming Projects\LanguageHelper3.1\LanguageHelper3.1\obj\Debug\Controls\AddPanel.g.cs
+D:\Programming Projects\LanguageHelper3.1\LanguageHelper3.1\obj\Debug\Controls\AddTranslationPanel.g.cs
+D:\Programming Projects\LanguageHelper3.1\LanguageHelper3.1\obj\Debug\Controls\AddWordPanel.g.cs
+D:\Programming Projects\LanguageHelper3.1\LanguageHelper3.1\obj\Debug\Controls\CharacterChartsPanel.g.cs
+D:\Programming Projects\LanguageHelper3.1\LanguageHelper3.1\obj\Debug\Controls\RemovePanel.g.cs
+D:\Programming Projects\LanguageHelper3.1\LanguageHelper3.1\obj\Debug\Controls\RemoveTranslationPanel.g.cs
+D:\Programming Projects\LanguageHelper3.1\LanguageHelper3.1\obj\Debug\Controls\RemoveWordPanel.g.cs
+D:\Programming Projects\LanguageHelper3.1\LanguageHelper3.1\obj\Debug\Windows\MainWindow.g.cs
+D:\Programming Projects\LanguageHelper3.1\LanguageHelper3.1\obj\Debug\Windows\WindowLogin.g.cs
+D:\Programming Projects\LanguageHelper3.1\LanguageHelper3.1\obj\Debug\App.g.cs
+D:\Programming Projects\LanguageHelper3.1\LanguageHelper3.1\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Programming Projects\LanguageHelper3.1\LanguageHelper3.1\obj\Debug\LanguageHelper3.1_MarkupCompile.cache
+D:\Programming Projects\LanguageHelper3.1\LanguageHelper3.1\obj\Debug\LanguageHelper3.1_MarkupCompile.lref
+D:\Programming Projects\LanguageHelper3.1\LanguageHelper3.1\obj\Debug\Controls\AddPanel.baml
+D:\Programming Projects\LanguageHelper3.1\LanguageHelper3.1\obj\Debug\Controls\AddTranslationPanel.baml
+D:\Programming Projects\LanguageHelper3.1\LanguageHelper3.1\obj\Debug\Controls\AddWordPanel.baml
+D:\Programming Projects\LanguageHelper3.1\LanguageHelper3.1\obj\Debug\Controls\CharacterChartsPanel.baml
+D:\Programming Projects\LanguageHelper3.1\LanguageHelper3.1\obj\Debug\Controls\RemovePanel.baml
+D:\Programming Projects\LanguageHelper3.1\LanguageHelper3.1\obj\Debug\Controls\RemoveTranslationPanel.baml
+D:\Programming Projects\LanguageHelper3.1\LanguageHelper3.1\obj\Debug\Controls\RemoveWordPanel.baml
+D:\Programming Projects\LanguageHelper3.1\LanguageHelper3.1\obj\Debug\Windows\MainWindow.baml
+D:\Programming Projects\LanguageHelper3.1\LanguageHelper3.1\obj\Debug\Windows\WindowLogin.baml
+D:\Programming Projects\LanguageHelper3.1\LanguageHelper3.1\obj\Debug\LanguageHelper3.1.g.resources
+D:\Programming Projects\LanguageHelper3.1\LanguageHelper3.1\obj\Debug\LanguageHelper3._1.Properties.Resources.resources
+D:\Programming Projects\LanguageHelper3.1\LanguageHelper3.1\obj\Debug\LanguageHelper3.1.csproj.GenerateResource.cache
+D:\Programming Projects\LanguageHelper3.1\LanguageHelper3.1\obj\Debug\LanguageHelper3.1.exe
+D:\Programming Projects\LanguageHelper3.1\LanguageHelper3.1\obj\Debug\LanguageHelper3.1.pdb

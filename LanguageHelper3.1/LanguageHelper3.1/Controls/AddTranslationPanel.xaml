@@ -1,0 +1,24 @@
+﻿<UserControl x:Class="LanguageHelper3._1.Controls.AddTranslationPanel"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:LanguageHelper3._1.Controls"
+             mc:Ignorable="d" 
+             d:DesignHeight="350" d:DesignWidth="230">
+    <Grid>
+        <Label Content="Choose a Japanese Word" HorizontalAlignment="Left" Height="25" Margin="35,10,0,0" VerticalAlignment="Top" Width="165" FontSize="14"/>
+        <ComboBox x:Name="cbHiragana" HorizontalAlignment="Left" Height="25" Margin="40,40,0,0" VerticalAlignment="Top" Width="150" FontSize="13.333"/>
+        <Label Content="Kanji is ..." HorizontalAlignment="Left" Height="30" Margin="35,75,0,0" VerticalAlignment="Top" Width="66" FontSize="14"/>
+        <RadioButton x:Name="rbNewKanji" Content="New" HorizontalAlignment="Left" Height="15" Margin="28,110,0,0" VerticalAlignment="Top" Width="50" Checked="rbNewKanji_Checked"/>
+        <RadioButton x:Name="rbOldKanji" Content="Existing" HorizontalAlignment="Left" Height="15" Margin="78,110,0,0" VerticalAlignment="Top" Width="65" Checked="rbOldKanji_Checked"/>
+        <RadioButton x:Name="rbNoKanji" Content="None" HorizontalAlignment="Left" Height="15" Margin="143,110,0,0" VerticalAlignment="Top" Width="55" Checked="rbNoKanji_Checked"/>
+        <TextBox x:Name="tbKanji" HorizontalAlignment="Left" Height="20" Margin="40,130,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="150" IsEnabled="False"/>
+        <Label Content="Enter English Word(s)" HorizontalAlignment="Left" Height="28" Margin="35,155,0,0" VerticalAlignment="Top" Width="150" FontSize="14"/>
+        <TextBox x:Name="tbEnglish" HorizontalAlignment="Left" Height="20" Margin="40,188,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="150"/>
+        <Label x:Name="lblSuccess" Content="Translation(s) added successfully!" HorizontalAlignment="Left" Height="25" Margin="35,213,0,0" VerticalAlignment="Top" Width="165" FontSize="10.667" Visibility="Hidden"/>
+        <Label x:Name="lblError" Content="Error - Translation(s) not added" HorizontalAlignment="Left" Height="25" Margin="35,213,0,0" VerticalAlignment="Top" Width="165" FontSize="10.667" Foreground="#FFFF1D00" Visibility="Hidden"/>
+        <Button x:Name="btnAddTranslation" Content="Add Translation(s)" HorizontalAlignment="Left" Height="20" Margin="55,243,0,0" VerticalAlignment="Top" Width="120" Click="btnAddTranslation_Click"/>
+        <ComboBox x:Name="cbKanji" HorizontalAlignment="Left" Height="25" Margin="40,130,0,0" VerticalAlignment="Top" Width="150" FontSize="13.333"/>
+    </Grid>
+</UserControl>

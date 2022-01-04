@@ -1,0 +1,17 @@
+﻿<Window x:Class="LanguageHelper3._1.Windows.WindowLogin"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:LanguageHelper3._1.Windows"
+        mc:Ignorable="d"
+        Title="Login" Height="209.63" Width="299.858" WindowStartupLocation="CenterScreen" Loaded="Window_Loaded">
+    <Canvas>
+        <Label Content="Username:" Canvas.Left="10" Canvas.Top="10"/>
+        <TextBox x:Name="tbUserName" Height="20" TextWrapping="Wrap" Width="237" Canvas.Left="28" Canvas.Top="36" FontSize="11"/>
+        <Label Content="Password:" Canvas.Left="10" Canvas.Top="64"/>
+        <PasswordBox x:Name="pbPassword" Canvas.Left="28" Height="20" Canvas.Top="90" Width="237" FontSize="11"/>
+        <Button Content="Log in" Width="78" Canvas.Left="102" Canvas.Top="139" Click="Button_Click"/>
+        <Label x:Name="labelError" Content="Invalid Username or Password" Canvas.Left="61" Canvas.Top="113" FontWeight="Bold" Foreground="#FFFF5700" Visibility="Hidden"/>
+    </Canvas>
+</Window>

@@ -1,0 +1,21 @@
+﻿<UserControl x:Class="LanguageHelper3._1.Controls.RemovePanel"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:LanguageHelper3._1.Controls"
+             mc:Ignorable="d" 
+             d:DesignHeight="400" d:DesignWidth="250">
+    <Grid>
+        <Canvas VerticalAlignment="Top">
+            <Button x:Name="buttonShowRemoveWord" Height="30" Canvas.Left="10" Canvas.Top="10" Width="105" Content="Remove a Word" Click="buttonShowRemoveWord_Click"/>
+            <Button x:Name="buttonShowRemoveTranslation" Height="30" Canvas.Left="130" Canvas.Top="10.415" Width="110" Background="#FFDDDDDD" FontSize="14.667" Click="buttonShowRemoveTranslation_Click">
+                <TextBlock Text="Remove a Translation" TextWrapping="Wrap" TextAlignment="Center" FontSize="11"/>
+            </Button>
+            <Grid HorizontalAlignment="Left" Height="345" VerticalAlignment="Top" Width="230" Canvas.Left="10" Canvas.Top="45.415">
+                <local:RemoveWordPanel x:Name="RemoveWordPanel" Visibility="Hidden"></local:RemoveWordPanel>
+                <local:RemoveTranslationPanel x:Name="RemoveTranslationPanel" Visibility="Hidden"></local:RemoveTranslationPanel>
+            </Grid>
+        </Canvas>
+    </Grid>
+</UserControl>

@@ -1,0 +1,19 @@
+﻿<UserControl x:Class="LanguageHelper3._1.Controls.AddPanel"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:LanguageHelper3._1.Controls"
+             mc:Ignorable="d" 
+             d:DesignHeight="400" d:DesignWidth="250">
+    <Canvas VerticalAlignment="Top">
+        <Button x:Name="buttonShowAddWord" Height="30" Canvas.Left="10" Canvas.Top="10" Width="105" Content="Add a Word" Click="buttonShowAddWord_Click"/>
+        <Button x:Name="buttonShowAddTranslation" Height="30" Canvas.Left="135" Canvas.Top="10.415" Width="105" Background="#FFDDDDDD" FontSize="14.667" Click="buttonShowAddTranslation_Click">
+            <TextBlock Text="Add a Translation" TextWrapping="Wrap" TextAlignment="Center" FontSize="12"/>
+        </Button>
+        <Grid Height="345" Canvas.Left="10" Canvas.Top="45" Width="230">
+            <local:AddWordPanel x:Name="AddWordPanel" Visibility="Hidden"></local:AddWordPanel>
+            <local:AddTranslationPanel x:Name="AddTranslationPanel" Visibility="Hidden"></local:AddTranslationPanel>
+        </Grid>
+    </Canvas>
+</UserControl>

@@ -1,0 +1,42 @@
+﻿<Window x:Class="LanguageHelper3._1.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:LanguageHelper3._1.Controls"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="750" Width="1250" Loaded="Window_Loaded" WindowStartupLocation="CenterScreen">
+    <Grid>
+        <DockPanel LastChildFill="True">            
+            
+            <Grid x:Name="gridCharacterCharts" VerticalAlignment="Bottom" DockPanel.Dock="Bottom" Visibility="Collapsed">
+                <local:CharacterChartsPanel></local:CharacterChartsPanel>
+            </Grid>
+            <Grid Height="36" VerticalAlignment="Bottom" DockPanel.Dock="Bottom">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="1*"/>
+                    <ColumnDefinition Width="1*"/>
+                    <ColumnDefinition Width="1*"/>
+                </Grid.ColumnDefinitions>
+                <Button Grid.Column="0" x:Name="buttonShowRemovePanel" Content="Remove Word or Translation" Click="buttonShowRemovePanel_Click" />
+                <Button Grid.Column="1" x:Name="buttonShowCharts" Content="Show Charts" Click="ButtonShowCharts_Click" />
+                <Button Grid.Column="2" x:Name="buttonShowAddPanel" Content="Add Word or Translation" Click="buttonShowAddPanel_Click" />
+            </Grid>
+
+            <Grid x:Name="gridAuxilary" DockPanel.Dock="Right" Width="250" Visibility="Collapsed">
+                <local:AddPanel x:Name="AddPanel" Visibility="Collapsed"></local:AddPanel>
+                <local:RemovePanel x:Name="RemovePanel" Visibility="Collapsed"></local:RemovePanel>
+            </Grid>
+
+            <DataGrid x:Name="dataGridMain" AutoGenerateColumns="False" AlternatingRowBackground="#FFBFB3B3" AlternationCount="1" FontSize="16" IsReadOnly="True">
+                <DataGrid.Columns>
+                    <DataGridTextColumn Binding="{Binding word}" Header="Hiragana" Width="1*"/>
+                    <DataGridTextColumn Binding="{Binding romanji}" Header="Romanji" Width="1*"/>
+                    <DataGridTextColumn Binding="{Binding englishword}" Header="English" Width="1*"/>
+                    <DataGridTextColumn Binding="{Binding kanji}" Header="Kanji" Width="1*"/>
+                </DataGrid.Columns>
+            </DataGrid>
+        </DockPanel>
+
+    </Grid>
+</Window>
